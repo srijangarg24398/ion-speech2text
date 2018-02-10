@@ -1,0 +1,8 @@
+{
+  "name": "speech2text",
+  "app_id": "11210f30",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
